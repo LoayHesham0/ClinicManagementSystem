@@ -1,0 +1,40 @@
+C:\Users\inour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Clinic Management System.csprojAssemblyReference.cache
+C:\Users\inour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\inour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\inour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+C:\Users\inour\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\inour\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\inour\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\inour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SecretaryPanel.resources
+C:\Users\inour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+C:\Users\inour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\inour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\inour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminPanel.resources
+C:\Users\inour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DoctorPanel.resources
+C:\Users\inour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditProfile.resources
+C:\Users\inour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PatientProfiles.resources
+C:\Users\inour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateReservation.resources
+C:\Users\inour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewReservations.resources
+C:\Users\inour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditReservation.resources
+C:\Users\inour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InsuranceCompanies.resources
+C:\Users\inour\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Visits.resources
+E:\UNIVERSITY\Clinic management system(My version)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\UNIVERSITY\Clinic management system(My version)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\UNIVERSITY\Clinic management system(My version)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\UNIVERSITY\Clinic management system(My version)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Clinic Management System.csprojAssemblyReference.cache
+E:\UNIVERSITY\Clinic management system(My version)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminPanel.resources
+E:\UNIVERSITY\Clinic management system(My version)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateReservation.resources
+E:\UNIVERSITY\Clinic management system(My version)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.DoctorPanel.resources
+E:\UNIVERSITY\Clinic management system(My version)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditProfile.resources
+E:\UNIVERSITY\Clinic management system(My version)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditReservation.resources
+E:\UNIVERSITY\Clinic management system(My version)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\UNIVERSITY\Clinic management system(My version)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.InsuranceCompanies.resources
+E:\UNIVERSITY\Clinic management system(My version)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PatientProfiles.resources
+E:\UNIVERSITY\Clinic management system(My version)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\UNIVERSITY\Clinic management system(My version)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SecretaryPanel.resources
+E:\UNIVERSITY\Clinic management system(My version)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ViewReservations.resources
+E:\UNIVERSITY\Clinic management system(My version)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Visits.resources
+E:\UNIVERSITY\Clinic management system(My version)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Clinic Management System.csproj.GenerateResource.cache
+E:\UNIVERSITY\Clinic management system(My version)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Clinic Management System.csproj.CoreCompileInputs.cache
+E:\UNIVERSITY\Clinic management system(My version)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\UNIVERSITY\Clinic management system(My version)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
